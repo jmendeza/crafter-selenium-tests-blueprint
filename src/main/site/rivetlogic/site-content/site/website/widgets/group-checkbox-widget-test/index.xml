@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/group-checkbox-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1fbd</objectGroupId>
+	<objectId>1fbd6d97-a7dd-7e8b-98a9-70a24e9893b8</objectId>
+	<internal-name>Widget Test Page Checkbox Group</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>group-checkbox-widget-test</folder-name>
+	<checkbox-required>	<item>	<key>1</key>
+	<value_s>1</value_s>
+	</item>	<item>	<key>2</key>
+	<value_s>2</value_s>
+	</item>	<item>	<key>3</key>
+	<value_s>3</value_s>
+	</item>	<item>	<key>4</key>
+	<value_s>4</value_s>
+	</item>	<item>	<key>5</key>
+	<value_s>5</value_s>
+	</item></checkbox-required>
+	<createdDate>06/25/2013 11:52:39</createdDate>
+	<lastModifiedDate>06/25/2013 02:54:57</lastModifiedDate>
+	<checkbox-not-required/>
+	<checkbox-readonly/>
+	<checkbox-default-value>	<item>	<key>2</key>
+	<value_s>2</value_s>
+	</item></checkbox-default-value>
+	<checkbox-min-check>	<item>	<key>1</key>
+	<value_s>1</value_s>
+	</item>	<item>	<key>2</key>
+	<value_s>2</value_s>
+	</item>	<item>	<key>3</key>
+	<value_s>3</value_s>
+	</item>	<item>	<key>4</key>
+	<value_s>4</value_s>
+	</item>	<item>	<key>5</key>
+	<value_s>5</value_s>
+	</item></checkbox-min-check>
+</page>

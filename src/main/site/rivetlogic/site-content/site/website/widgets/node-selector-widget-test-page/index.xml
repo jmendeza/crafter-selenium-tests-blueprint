@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/node-selector-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8913</objectGroupId>
+	<objectId>8913246f-7fbc-d90b-dccc-fc561952848b</objectId>
+	<internal-title>Widget Test Page Node Selector</internal-title>
+	<file-name>index.xml</file-name>
+	<folder-name>node-selector-widget-test-page</folder-name>
+	<node-selector-required>	<item>	<key>/static-assets/images/onechild/index.xml</key>
+	<value>onechildupdate</value>
+	<include>/static-assets/images/onechild/index.xml</include>
+	</item></node-selector-required>
+	<createdDate>06/18/2013 12:20:00</createdDate>
+	<lastModifiedDate>06/18/2013 02:20:38</lastModifiedDate>
+	<internal-name>Widget Test Page Node Selector</internal-name>
+</page>

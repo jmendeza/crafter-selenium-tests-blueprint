@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/rte-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>af97</objectGroupId>
+	<objectId>af97f60f-bd6b-e188-a794-7fad008b722b</objectId>
+	<internal-name>Widget Test Page RTE</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>rte-widget-test-page</folder-name>
+	<rte>&lt;p&gt;This is RTE body&lt;/p&gt;</rte>
+	<createdDate>06/19/2013 01:33:53</createdDate>
+	<lastModifiedDate>06/24/2013 12:19:10</lastModifiedDate>
+	<rte-required>&lt;p&gt;RTE Required&lt;/p&gt;</rte-required>
+	<rte-not-required>&lt;p&gt;RTE Not Required adfadfadsfadfadf&lt;/p&gt;</rte-not-required>
+	<rte-force-p-tag>&lt;p&gt;RTE&lt;/p&gt;
+&lt;p&gt;Force&lt;/p&gt;
+&lt;p&gt;P&lt;/p&gt;
+&lt;p&gt;Tag&lt;/p&gt;</rte-force-p-tag>
+	<rte-force-br-tag>&lt;p&gt;RTE&lt;/p&gt;
+&lt;p&gt;Force&lt;/p&gt;
+&lt;p&gt;BR&lt;/p&gt;
+&lt;p&gt;Tag&lt;/p&gt;</rte-force-br-tag>
+	<rte-max-length>test rte max length</rte-max-length>
+</page>

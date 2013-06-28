@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/file-name-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9800</objectGroupId>
+	<objectId>98000bba-3e4a-57dc-d92d-7fdda2e26b73</objectId>
+	<internal-name>Widget Test Page File Name Update</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>filename-widget-test</folder-name>
+	<createdDate>06/13/2013 01:58:40</createdDate>
+	<lastModifiedDate>06/17/2013 12:19:34</lastModifiedDate>
+</page>

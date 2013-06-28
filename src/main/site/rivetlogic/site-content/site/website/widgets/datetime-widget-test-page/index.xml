@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/datetime-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>40d9</objectGroupId>
+	<objectId>40d95a5f-e645-94ef-41d3-8b2e55c902fa</objectId>
+	<internal-title>Widget Test Page Date Time</internal-title>
+	<file-name>index.xml</file-name>
+	<folder-name>datetime-widget-test-page</folder-name>
+	<createdDate>06/18/2013 09:41:15</createdDate>
+	<lastModifiedDate>06/18/2013 09:42:17</lastModifiedDate>
+	<datetime-required>06/18/2013 09:41:15</datetime-required>
+	<datetime-not-required>06/18/2013 09:41:15</datetime-not-required>
+	<date-only>06/18/2013 04:00:00</date-only>
+	<time-only>06/18/2013 09:41:15</time-only>
+	<date-time-setnow>06/18/2013 09:41:15</date-time-setnow>
+	<date-setnow>06/18/2013 04:00:00</date-setnow>
+	<date-time-allow-past>06/18/2013 09:41:15</date-time-allow-past>
+	<date-time-populated>06/18/2013 09:41:15</date-time-populated>
+	<date-time-readonly>06/18/2013 09:41:15</date-time-readonly>
+	<internal-name>Widget Test Page Date Time</internal-name>
+</page>

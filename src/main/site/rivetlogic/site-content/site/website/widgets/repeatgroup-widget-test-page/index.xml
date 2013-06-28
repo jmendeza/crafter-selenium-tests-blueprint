@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/repeatgroup-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8278</objectGroupId>
+	<objectId>82783e78-415e-71f6-e1bf-8e452ae524ee</objectId>
+	<repeatgroup-required>	<item>	<repeatgroup-required-input/>
+	</item></repeatgroup-required>
+	<internal-name>Widget Test Page - Repeat Group</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>repeatgroup-widget-test-page</folder-name>
+	<createdDate>06/26/2013 12:51:39</createdDate>
+	<lastModifiedDate>06/26/2013 04:34:53</lastModifiedDate>
+</page>

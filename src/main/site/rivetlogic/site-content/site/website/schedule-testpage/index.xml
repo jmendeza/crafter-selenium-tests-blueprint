@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/interior</content-type>	<display-template>/templates/web/interior.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>19c5</objectGroupId>
+	<objectId>19c5607a-7494-359b-7062-cb9b9406fa41</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>schedule-testpage</folder-name>
+	<internal-name>schedule-testpage</internal-name>
+	<title>schedule-testpage</title>
+	<author>schedule-testpage</author>
+	<pageTitle/>
+	<description/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<authorImage/>
+	<keywords/>
+	<body_html/>
+	<createdDate>06/07/2013 12:52:23</createdDate>
+	<lastModifiedDate>06/11/2013 12:55:56</lastModifiedDate>
+	<publishDate_dt>06/07/2013 04:00:00</publishDate_dt>
+</page>

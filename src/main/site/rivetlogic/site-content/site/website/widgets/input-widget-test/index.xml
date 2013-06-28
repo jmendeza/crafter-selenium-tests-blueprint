@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/input-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>90b6</objectGroupId>
+	<objectId>90b63f5e-ac76-72f7-3197-1ed2740478df</objectId>
+	<internal-name>Input Widget Test</internal-name>
+	<input-required>input required</input-required>
+	<input-not-required>input not required</input-not-required>
+	<input-count>input count</input-count>
+	<input-readonly>input readonly</input-readonly>
+	<file-name>index.xml</file-name>
+	<folder-name>input-widget-test</folder-name>
+	<createdDate>06/12/2013 04:20:29</createdDate>
+	<lastModifiedDate>06/12/2013 04:20:29</lastModifiedDate>
+</page>

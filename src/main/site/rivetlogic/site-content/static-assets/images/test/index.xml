@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/node-selector-widget-test-child</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>94c3</objectGroupId>
+	<objectId>94c31a3e-b02e-6a4e-7c7d-bdd4aed88905</objectId>
+	<internal-name>test</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>test</folder-name>
+	<createdDate>06/18/2013 12:17:36</createdDate>
+	<lastModifiedDate>06/18/2013 12:17:36</lastModifiedDate>
+</page>

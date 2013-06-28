@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/interior</content-type>	<display-template>/templates/web/interior.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0ab1</objectGroupId>
+	<objectId>0ab159a8-1319-47f6-b845-9caadd48ad56</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>golive-testpage</folder-name>
+	<internal-name>golive-testpage-tgl1</internal-name>
+	<title>golive-testpage1</title>
+	<author>golive-testpage</author>
+	<pageTitle/>
+	<description/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<authorImage/>
+	<keywords/>
+	<body_html/>
+	<createdDate>06/07/2013 12:49:44</createdDate>
+	<lastModifiedDate>06/10/2013 01:13:14</lastModifiedDate>
+	<publishDate_dt>06/07/2013 04:00:00</publishDate_dt>
+</page>

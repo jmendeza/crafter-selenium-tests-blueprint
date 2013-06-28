@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b5f2</objectGroupId>
+	<objectId>b5f23502-d91c-e190-501d-9a269581a9e8</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>crafter-software-home</folder-name>
+	<internal-name>Crafter Software Home Page Update-tgl4</internal-name>
+	<title>Crafter Software Home Page Update5</title>
+	<author>Praveen Elineni</author>
+	<pageTitle>Crafter Software</pageTitle>
+	<description>Crafter Software</description>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<authorImage>/static-assets/images/horse.jpg</authorImage>
+	<keywords>Crafter Software</keywords>
+	<body_html>&lt;p&gt;Crafter Software&lt;/p&gt;
+&lt;p&gt;Welcome to Crafter Software Page!!!&lt;/p&gt;</body_html>
+	<publishDate_dt>06/05/2013 04:00:00</publishDate_dt>
+	<createdDate>06/05/2013 10:50:23</createdDate>
+	<lastModifiedDate>06/10/2013 01:19:21</lastModifiedDate>
+</page>

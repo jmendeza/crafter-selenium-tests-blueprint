@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/dropdown-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c200</objectGroupId>
+	<objectId>c2004105-6927-e189-e650-cdb0f926798e</objectId>
+	<internal-name>Widget Test Page Dropdown</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>dropdown-widget-test</folder-name>
+	<dropdown-required>one</dropdown-required>
+	<dropdown-not-required>two</dropdown-not-required>
+	<dropdown-allow-empty-value>three</dropdown-allow-empty-value>
+	<dropdown-readonly/>
+	<createdDate>06/13/2013 03:22:12</createdDate>
+	<lastModifiedDate>06/25/2013 02:11:57</lastModifiedDate>
+</page>

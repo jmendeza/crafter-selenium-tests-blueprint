@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/ad</content-type>	<display-template>/templates/web/ad.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>df2f</objectGroupId>
+	<objectId>df2f89b9-ac01-ac04-4e56-896cd6d507d5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>df2f89b9-ac01-ac04-4e56-896cd6d507d5</folder-name>
+	<internal-name>blah</internal-name>
+	<adCode>blah</adCode>
+	<createdDate>06/18/2013 12:15:06</createdDate>
+	<lastModifiedDate>06/18/2013 12:15:06</lastModifiedDate>
+</component>

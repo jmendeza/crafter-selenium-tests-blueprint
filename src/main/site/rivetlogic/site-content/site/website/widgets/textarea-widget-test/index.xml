@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/text-area-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fe97</objectGroupId>
+	<objectId>fe97e482-4e4d-c574-8da5-515fc7f2c1e0</objectId>
+	<internal-name>Textarea Widget Test</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>textarea-widget-test</folder-name>
+	<textarea-required>textarea required</textarea-required>
+	<textarea-not-required>textarea not required</textarea-not-required>
+	<textarea-readonly>textarea readonly</textarea-readonly>
+	<textarea-count>textarea count</textarea-count>
+	<textarea-noresize>textarea no resize</textarea-noresize>
+	<createdDate>06/13/2013 11:55:40</createdDate>
+	<lastModifiedDate>06/13/2013 11:55:40</lastModifiedDate>
+</page>

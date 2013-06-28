@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/checkbox-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>815d</objectGroupId>
+	<objectId>815d1c75-3302-f4fa-b472-6eda885a8a39</objectId>
+	<internal-name>Widget Testpage Checkbox</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>checkbox-widget-test</folder-name>
+	<checkbox-required>true</checkbox-required>
+	<checkbox-not-required>true</checkbox-not-required>
+	<checkbox-readonly>false</checkbox-readonly>
+	<checkbox-default-value>true</checkbox-default-value>
+	<createdDate>06/13/2013 02:06:36</createdDate>
+	<lastModifiedDate>06/13/2013 05:32:12</lastModifiedDate>
+</page>

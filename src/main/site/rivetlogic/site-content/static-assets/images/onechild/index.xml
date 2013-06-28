@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/node-selector-widget-test-child</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f67b</objectGroupId>
+	<objectId>f67b8fea-80a8-a49a-3425-b41e9409b5a4</objectId>
+	<internal-name>onechildupdate121Internal Name For Child Page Upda</internal-name>
+	<file-name>index.xml</file-name>
+	<folder-name>onechild</folder-name>
+	<createdDate>06/18/2013 12:20:37</createdDate>
+	<lastModifiedDate>06/28/2013 01:02:32</lastModifiedDate>
+</page>
