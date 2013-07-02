@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/flash-picker-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ce8d</objectGroupId>
+	<objectId>ce8d6050-7b27-8537-86f1-11531436cb81</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>flash-picker-widget-test-page</folder-name>
+	<internal-name>Flash Picker Widget Test Page</internal-name>
+	<required-flash>/static-assets/flash/flash.swf</required-flash>
+	<flash/>
+	<createdDate>07/02/2013 12:08:39</createdDate>
+	<lastModifiedDate>07/02/2013 12:35:41</lastModifiedDate>
+</page>

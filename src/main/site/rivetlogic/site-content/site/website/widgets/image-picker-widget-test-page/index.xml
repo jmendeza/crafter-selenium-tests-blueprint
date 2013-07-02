@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/image-picker-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7d3a</objectGroupId>
+	<objectId>7d3aa958-dcb4-68e5-c76a-527e1915da14</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>image-picker-widget-test-page</folder-name>
+	<internal-name>Image Picker Widget Test Page</internal-name>
+	<basicImage>/static-assets/images/350x150.gif</basicImage>
+	<createdDate>06/18/2013 07:31:21</createdDate>
+	<lastModifiedDate>06/18/2013 07:16:30</lastModifiedDate>
+	<basic-image>/static-assets/images/350x150.gif</basic-image>
+</page>

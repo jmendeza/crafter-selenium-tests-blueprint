@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/video-picker-widget-test-page</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c97b</objectGroupId>
+	<objectId>c97b4095-3b38-9e42-6fc9-238e5a64c468</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>video-picker-widget-test-page</folder-name>
+	<internal-name>Video Picker Widget Test Page</internal-name>
+	<required-video>/static-assets/videos/requiredVideo.mp4</required-video>
+	<video/>
+	<createdDate>07/02/2013 12:06:21</createdDate>
+	<lastModifiedDate>07/02/2013 12:06:21</lastModifiedDate>
+</page>
